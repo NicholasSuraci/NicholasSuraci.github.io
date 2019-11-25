@@ -93,12 +93,6 @@ input[class^='btn-']:hover {
 .contact-item2 {
   margin-top: 5rem; }
 
-.container {
-  margin-top: 10rem; }
-
-#contact {
-  margin-top: 10rem; }
-
 .items {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -399,7 +393,7 @@ img {
   background-color: #333;
   color: #fff;
   height: 5rem;
-  margin-top: 10rem; }
+  margin-top: 20rem; }
   #main-footer .footer-content {
     display: flex;
     justify-content: space-between;
