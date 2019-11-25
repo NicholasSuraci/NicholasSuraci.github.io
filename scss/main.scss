@@ -326,6 +326,7 @@ img{
             grid-template-columns: 1fr;
             text-align: center;
             padding-top: 100px;
+            
         }
     }
     &-c{
@@ -341,6 +342,7 @@ img{
     background-color: $dark-color;
     color: #fff;
     height: 5rem;
+    margin-top: 10rem;
     
     .footer-content{
         display: flex;

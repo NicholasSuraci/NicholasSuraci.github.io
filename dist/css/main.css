@@ -90,6 +90,9 @@ input[class^='btn-']:hover {
   display: block;
   margin: 0 auto 1rem auto; }
 
+.contact-item2 {
+  margin-top: 5rem; }
+
 .items {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -389,7 +392,8 @@ img {
 #main-footer {
   background-color: #333;
   color: #fff;
-  height: 5rem; }
+  height: 5rem;
+  margin-top: 10rem; }
   #main-footer .footer-content {
     display: flex;
     justify-content: space-between;
